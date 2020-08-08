@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+
+.image-container {
+    width: 200px;
+    height: 100px;
+}
+
+.image-container > img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+#btnInstall {
+    display: none;
+}
