@@ -24,3 +24,8 @@ Essai de mise en place d'une Progressive Web App.
 ## Résultat
 
 La PWA fonctionne, elle s'installe sur les mobiles et elle est consultable hors connexion. Elle n'est pas opti 100%, mais facile à opti avec LightHouse.
+
+## Aides
+- https://www.kaliop.com/fr/les-service-workers-vers-la-pwa/
+- https://blog.eleven-labs.com/fr/votre-premiere-pwa/
+- https://css-tricks.com/serviceworker-for-offline/
